@@ -1,0 +1,17 @@
+{
+    "name": "pagestack.ubuntu",
+    "description": "description of PageStack",
+    "architecture": "all",
+    "title": "PageStack",
+    "hooks": {
+        "PageStack": {
+            "apparmor": "PageStack.apparmor",
+            "desktop":  "PageStack.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-14.10"
+}
+
+

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=PageStack
+Exec=qmlscene $@ Main.qml
+Icon=PageStack.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
